@@ -1,0 +1,13 @@
+#大数据计算框架
+pyspark>=3.0.0
+
+# 数据模拟生成
+Faker
+
+# 数据库与存储连接
+redis
+pymysql
+
+# 数据分析与可视化
+pandas
+streamlit
